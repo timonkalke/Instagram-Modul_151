@@ -68,5 +68,5 @@ gem 'devise'
 #Bootstrap 4
 gem 'bootstrap','~> 4.0.0'
 gem 'jquery-rails'
-
+gem 'toastr-rails'
 
